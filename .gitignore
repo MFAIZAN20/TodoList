@@ -12,4 +12,7 @@
 /captures
 .externalNativeBuild
 .cxx
+# Ignore Firebase configuration file
+google-services.json
+
 local.properties
